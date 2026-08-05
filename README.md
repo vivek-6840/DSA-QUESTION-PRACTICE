@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
