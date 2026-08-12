@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0877-stone-game](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0877-stone-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0877-stone-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Minimax
 |  |
 | ------- |
