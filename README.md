@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0876-middle-of-the-linked-list) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 ## String
@@ -66,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 ## Math
