@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0287-find-the-duplicate-number) |
+| [0724-find-pivot-index](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0877-stone-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
