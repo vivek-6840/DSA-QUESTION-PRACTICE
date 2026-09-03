@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3875-construct-uniform-parity-array-i](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0877-stone-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
