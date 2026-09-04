@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0525-contiguous-array](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
