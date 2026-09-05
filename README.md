@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0525-contiguous-array](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0986-interval-list-intersections) |
