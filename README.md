@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0877-stone-game) |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0986-interval-list-intersections) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
