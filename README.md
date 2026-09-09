@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0986-interval-list-intersections) |
 ## Sorting
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
