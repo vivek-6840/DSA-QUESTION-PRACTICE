@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0525-contiguous-array) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
 |  |
