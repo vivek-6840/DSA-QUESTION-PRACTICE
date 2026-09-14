@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0986-interval-list-intersections) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
