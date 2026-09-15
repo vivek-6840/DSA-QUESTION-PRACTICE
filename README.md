@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0042-trapping-rain-water) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
