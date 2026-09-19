@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0739-daily-temperatures) |
 ## Quicksort
 |  |
