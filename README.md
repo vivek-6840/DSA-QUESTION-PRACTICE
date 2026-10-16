@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0268-missing-number) |
+| [0409-longest-palindrome](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0525-contiguous-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0242-valid-anagram) |
+| [0409-longest-palindrome](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
