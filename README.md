@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0986-interval-list-intersections) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
