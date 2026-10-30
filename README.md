@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0877-stone-game) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0633-sum-of-square-numbers) |
+| [0713-subarray-product-less-than-k](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
