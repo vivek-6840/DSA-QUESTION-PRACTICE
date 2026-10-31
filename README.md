@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
