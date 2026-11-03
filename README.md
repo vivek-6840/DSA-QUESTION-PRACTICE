@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0287-find-the-duplicate-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0525-contiguous-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0633-sum-of-square-numbers](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vivek-6840/DSA-QUESTION-PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
